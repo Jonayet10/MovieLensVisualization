@@ -46,13 +46,13 @@ To replicate this project or explore the visualizations:
 Team Members: Jonayet Lavin, A. Yusuf Kavranoglu, Dereje Lambert, Ismail Abouamal
 
 Work Division:
-- Jonayet worked on Data Preprocessing and Basic Visualizations, as well as the off-the-shelf imple-
+- Jonayet worked on Data Preprocessing and Basic Visualizations, as well as the off-the-shelf imple
 mentation for Matrix Factorization Visualizations.
-- Ismail worked on the non-bias implementation for Matrix Factorization Visualizations and its com-
+- Ismail worked on the non-bias implementation for Matrix Factorization Visualizations and its com
 parison with the biased version.
 - Dereje worked on the bias implementation for Matrix Factorization Visualizations and comparisons
 between methods.
-- Yusuf worked on improving the bias implementation for Matrix Factorization Visualizations and com-
+- Yusuf worked on improving the bias implementation for Matrix Factorization Visualizations and com
 parison of model performances.
 
 ## License
